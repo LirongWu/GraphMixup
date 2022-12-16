@@ -90,8 +90,10 @@ python train.py --dataset cora --setting embed_smote
   ```
 
 
+## Citation
 
-If you find this file useful in your research, please consider citing:
+If you find this project useful for your research, please use the following BibTeX entry.
+
 
 ```
 @article{wu2021graphmixup,
@@ -101,9 +103,3 @@ If you find this file useful in your research, please consider citing:
   year={2021}
 }
 ```
-
-
-
-## License
-
-GraphMixup is released under the MIT license.
