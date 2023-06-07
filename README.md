@@ -91,14 +91,18 @@ python train.py --dataset cora --setting embed_smote
 
 
 
+## Citation
+
 If you find this file useful in your research, please consider citing:
 
 ```
-@article{wu2021graphmixup,
-  title={Graphmixup: Improving class-imbalanced node classification on graphs by self-supervised context prediction},
-  author={Wu, Lirong and Lin, Haitao and Gao, Zhangyang and Tan, Cheng and Li, Stan and others},
-  journal={arXiv preprint arXiv:2106.11133},
-  year={2021}
+@inproceedings{wu2023graphmixup,
+  title={Graphmixup: Improving class-imbalanced node classification by reinforcement mixup and self-supervised context prediction},
+  author={Wu, Lirong and Xia, Jun and Gao, Zhangyang and Lin, Haitao and Tan, Cheng and Li, Stan Z},
+  booktitle={Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2022, Grenoble, France, September 19--23, 2022, Proceedings, Part IV},
+  pages={519--535},
+  year={2023},
+  organization={Springer}
 }
 ```
 
